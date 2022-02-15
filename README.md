@@ -44,7 +44,7 @@ Below is a list of supported functions (Like in the Http class) and how to use t
 
 * Get   :: GHttp::get($url, $data)
 * Post  :: GHttp::post($url, $data)
-* Pit   :: GHttp::put($url, $data)
+* Put   :: GHttp::put($url, $data)
 
 ### The Permissions class
 I also added a Permissions class with some basic functions to check the permissions. These functions are also used by the guards,
